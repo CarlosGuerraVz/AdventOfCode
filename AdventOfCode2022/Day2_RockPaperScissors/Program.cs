@@ -34,6 +34,7 @@
                 Console.WriteLine(ex.Message);
             }
         }
+
         static int StrToInt(string str)
         {
             char c = (char)str[0];
